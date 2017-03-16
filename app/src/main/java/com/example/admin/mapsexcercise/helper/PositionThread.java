@@ -16,6 +16,8 @@ import java.util.List;
 
 public class PositionThread extends Thread {
 
+    //This is a change
+
     private static final String TAG = "MyThreadTAG_";
 
     private List<LatLng> latLngs;
